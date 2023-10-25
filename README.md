@@ -4,7 +4,7 @@ she/her | 19 | Poland
 
 Interests:
 
-Video Editing | Books | Programming
+Video Editing (MEP (Multi Editor Projects)) | Books | Programming
 
 
 <!---
