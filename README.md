@@ -2,9 +2,6 @@ Natalia/Nati/Nat
 
 she/her | 19 | Poland
 
-Interests:
-
-Video Editing (MEP (Multi Editor Projects)) | Books | Programming
 
 
 <!---
