@@ -1,6 +1,6 @@
 <div align="center">
 
-I'm a third year Computer Science and Intelligent Systems student at AGH University of Cracow in Poland with strong passion for software engineering. I am seeking opportunities to contribute to real-world software projects and continue growing as a developer.
+I'm a fourth year Computer Science and Intelligent Systems student at AGH University of Cracow in Poland with strong passion for software engineering and embedded systems. 
 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![javascript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
